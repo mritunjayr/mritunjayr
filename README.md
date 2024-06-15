@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mritunjay, 4+ years of experience in Full stack development.
+- 👋 Hi, I’m mritunjay, 5+ years of experience in Full stack development.
 - 👀 I’m interested in exploring all gaming, web, & mobile tech stacks.
 - 🌱 I’m currently learning rust tech stacks.
 - 💞️ I’m looking to collaborate on java, python and node projects.
@@ -14,10 +14,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mritunjayr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjayr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mritunjayr&theme=discord)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
