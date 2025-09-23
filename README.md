@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mritunjay, 5+ years of experience in Full stack development.
+- 👋 Hi, I’m mritunjay, 6+ years of experience in Full stack development.
 - 👀 I’m interested in exploring all gaming, web, & mobile tech stacks.
 - 🌱 I’m currently learning rust tech stacks.
 - 💞️ I’m looking to collaborate on java, python and node projects.
