@@ -1,7 +1,7 @@
-- 👋 Hi, I’m mritunjay, 6+ years of experience in Full stack development.
+- 👋 Hi, I’m mritunjay, 7+ years of experience in Full stack development.
 - 👀 I’m interested in exploring all gaming, web, & mobile tech stacks.
-- 🌱 I’m currently learning golang and rust tech stacks.
-- 💞️ I’m looking to collaborate on java, python and node projects.
+- 🌱 I’m currently learning Agentic AI stacks.
+- 💞️ I’m looking to collaborate on java, python, node and go projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mritunjay-kumar1/)
